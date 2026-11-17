@@ -1,4 +1,4 @@
-// build test 3
+// build test 6
 pipeline {
     agent any
     options { skipDefaultCheckout(true) }
